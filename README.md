@@ -1,4 +1,4 @@
 # LinearSystemMatrixNotDetermined
 Linear systems not determined
 
-https://replit.com/@MatheSchool/LinearSystemMatrix#main.py
+https://replit.com/@MatheSchool/LinearSystemMatrixNotDetermined#main.py
